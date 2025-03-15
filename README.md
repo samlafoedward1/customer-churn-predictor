@@ -1,4 +1,4 @@
-**# Customer Churn Prediction with MLOps & AI**
+### Customer Churn Prediction with MLOps & AI**
 
 This project aims to predict customer churn using a combination of machine learning and deep learning models. It integrates MLOps practices for efficient model lifecycle management, containerization for easy deployment, and an interactive chatbot powered by LangChain for user engagement.
 
